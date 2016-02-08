@@ -1,0 +1,48 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:18:1-43:12
+	xmlns:android
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:18:11-69
+	package
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:19:5-42
+		INJECTED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:21:22-78
+application
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:23:5-42:19
+activity#com.android.gesture.builder.GestureBuilderActivity
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:25:9-36:20
+	android:label
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:27:13-53
+	android:icon
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:28:13-55
+	android:name
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:26:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:32:27-74
+category#android.intent.category.DEFAULT
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:33:27-73
+activity#com.android.gesture.builder.CreateGestureActivity
+ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:38:9-40:60
+	android:label
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:40:13-57
+	android:name
+		ADDED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml:39:13-49
+uses-sdk
+INJECTED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:minSdkVersion
+		INJECTED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /media/linux/android_apps/GestureBuilder/app/src/main/AndroidManifest.xml
